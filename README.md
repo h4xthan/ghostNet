@@ -71,4 +71,4 @@ Para salir, es nada más que el usuario presiona la combinación de teclas *Ctrl
 
 ## Nota importante
 
-Este script está pensado para ser utilizado solo con fines éticos y/o educativos.Este solo es un proyecto cuyo propósito es demostrar las habilidades que he ido adquiriendo en el tiempo que llevo en este campo. Por lo tanto, no me hago responsable del mal uso que se le dé a este script. Recuerda, nunca pares de hackear! (ético siempre)
+Este script está pensado para ser utilizado solo con fines éticos y/o educativos. Este solo es un proyecto cuyo propósito es demostrar las habilidades que he ido adquiriendo en el tiempo que llevo en este campo. Por lo tanto, no me hago responsable del mal uso que se le dé a este script. Recuerda, nunca pares de hackear! (ético siempre)
