@@ -67,12 +67,6 @@ Una vez que el usuario vea las redes Wi-Fi, este seleccionará la red objetivo a
 
 Finalmente, el usuario puede elegir entre si desautenticar un solo dispositivo, o todos los que se encuentren conectados a esa red.
 
-<p align="center">
-<img src="images/imagen4.png"
-    alt"logo"
-    style="float: left; margin-right: 9px;" />
-</p>
-
 Para salir, es nada más que el usuario presiona la combinación de teclas *Ctrl* + *C*, el programa se encarga de regresar la interfaz de red del modo monitor, al normal.
 
 ## Nota importante
