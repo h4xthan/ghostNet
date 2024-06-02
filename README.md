@@ -36,7 +36,7 @@ Posteriormente, ejecutas el script.
 Al ejecutar el script, se le pedirá al usuario que elija una interfaz de red por la cual operar.
 
 <p align="center">
-<img src="images/imagen0.png"
+<img src="images/imagen1.png"
     alt"logo"
     style="float: left; margin-right: 9px;" />
 </p>
@@ -44,7 +44,7 @@ Al ejecutar el script, se le pedirá al usuario que elija una interfaz de red po
 Posteriormente, la interfaz de red seleccionada se pondrá en modo monitor.
 
 <p align="center">
-<img src="images/imagen1.png"
+<img src="images/imagen2.png"
     alt"logo"
     style="float: left; margin-right: 9px;" />
 </p>
@@ -52,7 +52,7 @@ Posteriormente, la interfaz de red seleccionada se pondrá en modo monitor.
 Ahora, se mostrarán todas las redes Wi-Fi disponibles, junto con sus respectivos BSSID, canales y ESSID.
 
 <p align="center">
-<img src="images/imagen2.png"
+<img src="images/imagen3.png"
     alt"logo"
     style="float: left; margin-right: 9px;" />
 </p>
@@ -60,7 +60,7 @@ Ahora, se mostrarán todas las redes Wi-Fi disponibles, junto con sus respectivo
 Una vez que el usuario vea las redes Wi-Fi, este seleccionará la red objetivo a través de su BSSID y canal.
 
 <p align="center">
-<img src="images/imagen3.png"
+<img src="images/imagen4.png"
     alt"logo"
     style="float: left; margin-right: 9px;" />
 </p>
