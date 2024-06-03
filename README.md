@@ -11,7 +11,7 @@ Herramienta para probar la seguridad de una red *Wi-Fi*
 
 ## Descripción
 
-ghostNet es un programa diseñado para probar la seguridad de una red Wi-Fi realizando ataques de desautenticación. Este proyecto fue creado con el fin de poner a prueba los conocimientos que he adquirido en el tiempo que llevo estudiando Bash.
+ghostNet es un programa diseñado para probar la seguridad de una red Wi-Fi realizando ataques de desautenticación. Este proyecto fue creado con el fin de poner a prueba los conocimientos que he ido adquiriendo a lo largo del tiempo que llevo estudiando Bash.
 
 ## Paquetes necesarios:
 
