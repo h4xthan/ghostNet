@@ -15,9 +15,9 @@ ghostNet es un programa diseñado para probar la seguridad de una red Wi-Fi real
 
 ## Paquetes necesarios:
 
-sudo apt-get install aircrack-ng wireless-tools # Para distribuciones basadas en Debian
+```sudo apt-get install aircrack-ng wireless-tools``` # Para distribuciones basadas en Debian
 
-sudo pacman -S aircrack-ng wireless-tools       # Para Arch Linux
+```sudo pacman -S aircrack-ng wireless-tools```       # Para Arch Linux
 
 ## Ejecución del script
 
